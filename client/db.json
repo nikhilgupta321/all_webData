@@ -1,0 +1,298 @@
+{
+  "articales": [
+    {
+      "type": "paid",
+      "txnid": "SU1695099524TS",
+      "refno": "Physical Education 5018",
+      "name": "Amrik Singh",
+      "title": "EFFECT OF YOGIC PRACTICE ON PHYSIOLOGICAL FITNESS AMONG SCHOOL BOYS",
+      "email": "drvsn.sport@gmail.com",
+      "phone": "8787014575",
+      "country": "India",
+      "createdat": "sonukumar 18-Sep-2023 01:27 PM"
+    },
+    {
+      "type": "paid",
+      "txnid": "SU1695099524TS",
+      "refno": "Physical Education 5018",
+      "name": "Amrik Singh",
+      "title": "EFFECT OF YOGIC PRACTICE ON PHYSIOLOGICAL FITNESS AMONG SCHOOL BOYS",
+      "email": "drvsn.sport@gmail.com",
+      "phone": "8787014575",
+      "country": "India",
+      "createdat": "sonukumar 18-Sep-2023 01:27 PM"
+    },
+    {
+      "type": "paid",
+      "txnid": "SU1695099524TS",
+      "refno": "Physical Education 5018",
+      "name": "Amrik Singh",
+      "title": "EFFECT OF YOGIC PRACTICE ON PHYSIOLOGICAL FITNESS AMONG SCHOOL BOYS",
+      "email": "drvsn.sport@gmail.com",
+      "phone": "8787014575",
+      "country": "India",
+      "createdat": "sonukumar 18-Sep-2023 01:27 PM"
+    },
+    {
+      "type": "paid",
+      "txnid": "SU1695099524TS",
+      "refno": "Physical Education 5018",
+      "name": "Amrik Singh",
+      "title": "EFFECT OF YOGIC PRACTICE ON PHYSIOLOGICAL FITNESS AMONG SCHOOL BOYS",
+      "email": "drvsn.sport@gmail.com",
+      "phone": "8787014575",
+      "country": "India",
+      "createdat": "sonukumar 18-Sep-2023 01:27 PM"
+    }
+  ],
+
+  "juranls": [
+    {
+      "sortname": "Physical Education",
+      "fullname": "international Journal of Physical Education, Exercise and Sports",
+      "domain": "www.physicaleducationjournal.com",
+      "email": "drvsn.sport@gmail.com"
+    },
+    {
+      "sortname": "IJMRD",
+      "fullname": "International Journal of Multidisciplinary Research and Development",
+      "domain": "www.allsubjectjournal.com",
+      "email": "ijmrd.research@gmail.com"
+    }
+  ],
+  "juranlsbtn": [
+    {
+      "type": "paid",
+      "taxnid": "SR1695966475KS",
+      "refno": "IJMRD10182",
+      "email": "sus..",
+      "title": "महान् समाज सुधारकः संत कबीर",
+      "created": "shashank 29/09/2023 02:46 PM",
+      "payment": "shashank 29/09/2023 04:57 PM",
+      "date": "",
+      "mode": "pratap 03/10/2023 10:07 AM",
+      "published": "pratap 03/10/2023 10:07 AM",
+      "remarks": "2014 March"
+    },
+    {
+      "type": "FREE",
+      "taxnid": "GF1695986724HR",
+      "refno": "IJMRD10182",
+      "email": "sus..",
+      "title": "INVESTIGATING THE PREDISPOSING FACTORS FOR TYPE 2 DIABETES: AN INSTITUTIONAL STUDY",
+      "created": "shashank 29/09/2023 02:46 PM",
+      "payment": "shashank 29/09/2023 04:57 PM",
+      "date": "",
+      "mode": "pratap 03/10/2023 10:07 AM",
+      "published": "pratap 03/10/2023 10:07 AM",
+      "remarks": "2014 March"
+    }
+  ],
+
+  "indexng": [
+    {
+      "shortName": "Physical Education",
+      "fullName": "International Journal of Physical Education, Exercise and Sports",
+      "domain": "www.physicaleducationjournal.com"
+    },
+    {
+      "shortName": "Physical Education",
+      "fullName": "International Journal of Physical Education, Exercise and Sports",
+      "domain": "www.physicaleducationjournal.com"
+    },
+    {
+      "shortName": "Physical Education",
+      "fullName": "International Journal of Physical Education, Exercise and Sports",
+      "domain": "www.physicaleducationjournal.com"
+    }
+  ],
+
+  "user": [
+    {
+      "id": 1,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 2,
+      "name": "International Journal of Research in Pharmacy and Pharmaceutical Sciences",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download|upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 3,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 4,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 5,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 6,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 7,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 8,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 9,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 10,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 11,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 12,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 13,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 14,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 15,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 16,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 17,
+      "name": "International Journal of Research in Pharmacy and Pharmaceutical Sciences",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": 18,
+      "name": "International Journal of Biology Research",
+      "email": "saleemakhter133@gmail.com",
+      "url": "https://www.biologyjournal.in",
+      "resume": "download,upload",
+      "certificate": "upload",
+      "status": "pending",
+      "created": "sonukumar 23-Sep-2023 11:29 AM"
+    },
+    {
+      "id": "1",
+      "shortName": "Physical Education",
+      "fullName": "International Journal of Physical Education, Exercise and Sports",
+      "domain": "www.physicaleducationjournal.com"
+    }
+  ]
+}
